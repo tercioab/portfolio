@@ -1,0 +1,7 @@
+header {
+    gap: 480px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: var(--margin-large);
+}

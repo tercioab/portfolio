@@ -12,10 +12,10 @@ export default function App() {
 			<Header />
 			<Routes>
 				<Route path='/' element={<Home />} />
-				<Route path='/projetos' component={<Projetos />} />
-				<Route path='/sobre' component={<Sobre />} />
-      </Routes>
-      <Footer />
+				<Route path='/projetos' element={<Projetos />} />
+				<Route path='/sobre' element={<Sobre />} />
+			</Routes>
+			<Footer />
 		</BrowserRouter>
 	);
 }

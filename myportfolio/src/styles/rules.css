@@ -1,0 +1,17 @@
+:root {
+	--color-blue-700: #0047ab;
+	--color-blue-300: #006aff;
+	--color-blue-200: #247fff;
+	--color-white: #fafafa;
+	--font-size-h1: 32px;
+	--font-size-h2: 24px;
+	--font-size-h3: 16px;
+	--h1-weight: 800;
+	--h2-weight: 700;
+	--text-weight: 100;
+	--border-radius: 4px;
+	--margin-min: 16px;
+	--margin-medium: 24px;
+	--margin-large: 32px;
+	--margin-x-large: 40px;
+}

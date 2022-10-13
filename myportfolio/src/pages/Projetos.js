@@ -2,9 +2,7 @@ import React from "react";
 
 export default function Projetos () {
     return (
-        <button className="btn-1" >
-
-        </button>
+       <h1>projetos</h1>
     )
 }
 

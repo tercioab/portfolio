@@ -1,0 +1,12 @@
+footer {
+	position: fixed;
+	left: 0;
+	bottom: 16px;
+	margin-left: 80px;
+	width: 100%;
+}
+
+footer h3 {
+	font-size: var(--font-size-h3);
+	color: var(--color-blue-700);
+}
