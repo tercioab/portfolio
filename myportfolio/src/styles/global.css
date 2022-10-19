@@ -47,6 +47,10 @@ p {
 
 }
 
+.btn-1 a {
+	color: white; 
+}
+
 ul {
    list-style: none;
    display: flex;
