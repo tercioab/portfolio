@@ -1,0 +1,28 @@
+.subcard li {
+  list-style: none;
+  font-size: var(--font-size-s);
+}
+
+.subcard {
+    justify-content: center;
+    margin-top: 4rem;
+    display: flex;
+    gap: 2rem;
+    
+}
+
+.card img {
+    background-color: black;
+    width: 15rem;
+}
+
+.card {
+    display: flex;
+    border-radius: var(--border-radius) ;
+    flex-direction: column;
+    align-items: center;
+    width: 20rem;
+    padding: 1;
+    background-color: var(--color-blue-200);
+    
+}
